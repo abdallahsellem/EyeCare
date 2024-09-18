@@ -47,7 +47,3 @@ The datasets are not included in the GitHub repository. Make sure to download or
 1. **Import the Notebooks on Kaggle**: Go to Kaggle and Import the provided notebooks.
 2. **Link Datasets**: In each notebook, you can link the Kaggle datasets required for training and testing the models.
 3. **Run the Cells**: Execute the cells to preprocess data, train models, and evaluate results.
-
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
